@@ -1,0 +1,47 @@
+.lyrics-container {
+  width: 350px;
+  height: 460px;
+  padding: 24px 16px;
+  overflow-y: auto;
+  overflow-x: visible;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  background: transparent;
+  transform: perspective(950px) rotateY(-12deg);
+  transform-origin: right center;
+  mask-image: linear-gradient(to bottom, transparent 0%, black 14%, black 86%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 14%, black 86%, transparent 100%);
+}
+
+.lyrics-placeholder {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 15px;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
+}
+
+.lyrics-line {
+  font-size: 17px;
+  font-weight: 600;
+  color: #ffffff;
+  transform: translateX(0) scale(1);
+  transform-origin: left center;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
+  transition: all 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+  line-height: 1.35;
+  cursor: pointer;
+}
+
+.lyrics-line.active {
+  font-size: 24px;
+  font-weight: 800;
+  transform: translateX(-8px) scale(1.06);
+}
+
+.lyrics-plain {
+  white-space: pre-line;
+  font-size: 15px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+}
