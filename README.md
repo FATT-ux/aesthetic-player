@@ -4,13 +4,12 @@
 
 **Эстетичный веб-плеер с 3D-перспективой, динамической подсветкой под цвет обложки и синхронизированным караоке-текстом.**
 
-<p align="center">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Vite" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Built with AI" />
-</p>
+![React](https://badgen.net)
+![TypeScript](https://badgen.net)
+![Vite](https://badgen.net)
+![Node.js](https://badgen.net)
+![Built with AI](https://badgen.net)
+
 
 </div>
 
