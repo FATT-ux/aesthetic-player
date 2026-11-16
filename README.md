@@ -1,15 +1,20 @@
-<div align="center">
+<img width="590" height="361" alt="Node js_logo" src="https://github.com/user-attachments/assets/cc56b5c2-44b6-4f1e-a178-f95064584b3a" /><img width="512" height="512" alt="Typescript_logo_2020" src="https://github.com/user-attachments/assets/2d353f2d-716b-4a64-880b-44b4ad9d9012" /><div align="center">
 
 # 🎧 Атмосферный плеер
 
 **Эстетичный веб-плеер с 3D-перспективой, динамической подсветкой под цвет обложки и синхронизированным караоке-текстом.**
 
-![React](https://badgen.net)
-![TypeScript](https://badgen.net)
-![Vite](https://badgen.net)
-![Node.js](https://badgen.net)
-![Built with AI](https://badgen.net)
-
+<p align="left">
+  <img height="32" alt="React" src="https://github.com/user-attachments/assets/eb54dbc6-7d00-4a6d-888b-b1eda522309b" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="32" alt="TypeScript" src="https://github.com/user-attachments/assets/8cdf1f8c-54b4-448e-ad16-bdec6501fdc2" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="32" alt="Vite" src="https://github.com/user-attachments/assets/b5917c67-31dd-4939-9735-f00f65781c74" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="32" alt="Node.js" src="https://github.com/user-attachments/assets/03da293c-8d5c-48f7-9602-accdf1e90d83" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="32" alt="Google Gemini" src="https://github.com/user-attachments/assets/6007b85c-9c5f-4d17-a9b3-80e414e05fe4" />
+</p>
 
 </div>
 
