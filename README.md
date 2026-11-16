@@ -107,12 +107,12 @@ npm run dev
     <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/0c35ce23-3cff-4ff5-aedd-33698ecfdc7c" alt="Интерфейс плеера" width="100%" />
       <br />
-      <sub><b>Очередь треков и динамический фокус</b></sub>
+      <sub><b>Выезжающий поиск треков и артистов</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/0d6cf3c7-eebb-4d9b-b638-11a567a2adf1" alt="Живой поиск" width="100%" />
       <br />
-      <sub><b>Выезжающий поиск треков и артистов</b></sub>
+      <sub><b>Очередь треков и динамический фокус</b></sub>
     </td>
   </tr>
 </table>
